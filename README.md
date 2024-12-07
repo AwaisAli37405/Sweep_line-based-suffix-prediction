@@ -44,6 +44,6 @@ Once created the environment, you can perform training and testing by running th
 
 ```
 
-* The trained predictive model will be saved in the output folder along with the parameters and test set.
+* The trained predictive models for the next activity, start and duration will be saved in the output folder along with the parameters and test set.
 * After running the test set on the trained model, results for sweep line based approach can be found in the same folder
 
