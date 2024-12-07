@@ -4,8 +4,7 @@ This project contains supplementary material for the article **"Predicting Case 
 Our project builds upon an existing LSTM-based approach for next activity and case suffix prediction. We have expanded this initial implementation to include sweep line based approach, alongside various baseline  approaches that are detailed in our paper. 
 
 # Datasets:
-Datasets can be found in the input folder or on the following link:
-- [Logs](logs)
+Datasets can be found in the input folder 
 
 # Reproduce Results:
 
