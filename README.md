@@ -1,5 +1,6 @@
 # Predicting Case Suffixes With Activity Start and End Times: A Sweep-Line Based Approach
-This project contains supplementary material for the article **"Predicting Case Suffixes With Activity Start and End Times: A Sweep-Line Based Approach"** by **Muhammad Awais Ali**, **[Marlon Dumas](https://kodu.ut.ee/~dumas/)** and **Fredrik Milani**.
+This project contains supplementary material for the article **"Predicting Case Suffixes With Activity Start and End Times: A Sweep-Line Based Approach"** 
+<!--by **Muhammad Awais Ali**, **[Marlon Dumas](https://kodu.ut.ee/~dumas/)** and **Fredrik Milani**.-->
 
 Our project builds upon an existing BiLSTM-based approach for next activity and case suffix prediction. We have expanded this initial implementation to include sweep line based approach, alongside various baseline  approaches that are detailed in our paper. 
 
